@@ -1,0 +1,13 @@
+﻿  Moc'ing mainwindow.h...
+  Rcc'ing musicplayer.qrc...
+RCC : warning : No resources in 'F:\project\MusicPlayer\MusicPlayer\musicplayer.qrc'.
+  
+  Uic'ing mainwindow.ui...
+  qrc_musicplayer.cpp
+  moc_mainwindow.cpp
+  main.cpp
+  mainwindow.cpp
+  playlist.cpp
+  track.cpp
+  正在生成代码...
+  MusicPlayer.vcxproj -> F:\project\MusicPlayer\x64\Release\MusicPlayer.exe
